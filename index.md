@@ -10,9 +10,9 @@ His research and professional interests include:
 - Recommendation Systems and Personalization  
 - Responsible and Ethical AI Deployment  
 - Scalable ML Infrastructure & Experimentation Design  
-- Causal Inference and Uplift Modeling
 - Time Series Foundation Models and Sequential Data Modeling
 - Benchmarking and Deploying TSFMs in Real-World Applications
+- Causal Inference and Uplift Modeling
   
 
 🔗 [LinkedIn](https://www.linkedin.com/in/anshul-gandhi/)  

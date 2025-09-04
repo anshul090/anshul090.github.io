@@ -12,14 +12,13 @@ His research and professional interests include:
 - Scalable ML Infrastructure & Experimentation Design  
 - Causal Inference and Uplift Modeling  
 
-📧 anshulgandhi@email.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/anshul-gandhi/)  
 
 ---
 
 ## 📅 Timeline
 
-### 2021 – 2025  
+### 2022 – 2025  
 **Session Chair & Technical Reviewer — High-Impact Venues**
 
 - **Journals**

@@ -31,7 +31,8 @@ His research and professional interests include:
   - *5th IEEE International Conference on VLSI Systems, Architecture, Technology and Application (Amrita School of Engineering, Bengaluru)* – Institution of Eminence in engineering and research.  
   - *2025 IEEE Global Humanitarian Technology Conference (GHTC, Colorado School of Mines)* – Prestigious humanitarian tech venue.  
   - *2025 7th International Conference on Computing, Communication and Automation (Galgotias University, Greater Noida)*.  
-  - *2025 IEEE 1st International Conference on Electrical, Electronics and Computer Science with Advanced Power Technologies (ICE2CPT 2025, NIT Jamshedpur)*.  
+  - *2025 IEEE 1st International Conference on Electrical, Electronics and Computer Science with Advanced Power Technologies (ICE2CPT 2025, NIT Jamshedpur)*.
+  - *International Conference on Computer Science and Artificial Intelligence Applications (CSAIA 2025), Changsha, China*.  
 
 - **Session Chair**
   - *International Conference on Power Engineering and Intelligent Systems (PEIS 2023, NIT Delhi)* – Chaired sessions at an Institute of National Importance with <1% national admission rate.  

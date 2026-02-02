@@ -47,5 +47,5 @@ His research and professional interests include:
 - **Humanitarian & Societal Impact**
   - *Reviewer, IEEE Tech4Good Humanitarian Program* – Assessed AI proposals with focus on societal impact, accessibility, and sustainability; provided funding recommendations for public sector and global development projects.
 
- - **Technical Reviewer Book- packt Publishing**
+ - **Technical Reviewer Book**
    - *A Practical Guide to Reinforcement Learning from Human Feedback*

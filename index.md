@@ -37,8 +37,8 @@ His research and professional interests include:
   - *2025 IEEE 1st International Conference on Electrical, Electronics and Computer Science with Advanced Power Technologies (ICE2CPT 2025, NIT Jamshedpur)*.
   - *International Conference on Computer Science and Artificial Intelligence Applications (CSAIA 2025), Changsha, China*.
   - *International Conference on Advanced Scientific Computing & Machine Learning (ASCML 2026)*
-  - *SYSCON 2026 The 20th Annual IEEE International Systems Conference*
-  - *IEEE SoutheastCon 2026*
+  - *SYSCON 2026 The 20th Annual IEEE International Systems Conference, Halifax Canada*
+  - *IEEE SoutheastCon 2026, Huntsville, Alabama*
 
 - **Session Chair**
   - *International Conference on Power Engineering and Intelligent Systems (PEIS 2023, NIT Delhi)* – Chaired sessions at an Institute of National Importance with <1% national admission rate.  

@@ -21,7 +21,7 @@ His research and professional interests include:
 
 ## 📅 Timeline
 
-### 2022 – 2025  
+### 2022 – 2026  
 **Session Chair & Technical Reviewer — High-Impact Venues**
 
 - **Journals**

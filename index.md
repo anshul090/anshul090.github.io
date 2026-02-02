@@ -1,12 +1,14 @@
 # Anshul Gandhi  
 **Senior Machine Learning Engineer @ Apple**
 
-Anshul Gandhi is a Senior Machine Learning Engineer at Apple, where he builds scalable generative AI and large language model (LLM) systems for enterprise-grade applications. His expertise spans recommendation engines, causal inference, scalable ML infrastructure, and responsible AI deployment.  
+Anshul Gandhi is a Senior Machine Learning Engineer at Apple, where he builds scalable generative AI and large language model (LLM) systems for enterprise-grade applications. He specializes in AI inference engineering and serving generative AI systems at scale, with deep hands-on experience in Graph RAG, Agentic RAG, multi-agent systems, context engineering and production-grade LLMOps.
 
 Previously, he was a Senior ML Engineer at Dell Technologies, where he led patented work on AI-driven cybersecurity risk engines and ML platforms. He also worked at UnitedHealthcare, developing predictive analytics solutions to improve patient outcomes and healthcare delivery.  
 
 His research and professional interests include:  
-- Generative AI and Large Language Models (LLMs)  
+- Generative AI and Large Language Models (LLMs)
+- Multi Agent Systems and LLMOPS
+- GRAPH RAG, Agentic RAG  and Context Engineering
 - Recommendation Systems and Personalization  
 - Responsible and Ethical AI Deployment  
 - Scalable ML Infrastructure & Experimentation Design  
